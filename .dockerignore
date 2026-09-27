@@ -1,0 +1,9 @@
+.git
+.next
+node_modules
+e2e
+test-results
+playwright-report
+Dockerfile
+.dockerignore
+*.log
